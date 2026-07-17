@@ -301,8 +301,7 @@ export default function Portfolio() {
           Aniekan Udo
         </h1>
         <p className="pf-hero__sub">
-          I build reliable, scalable AI systems — multi-agent LLM pipelines,
-          production fraud detection, and RAG assistants that monitor themselves.
+          I build production grade AI systems and multi-agent LLM pipelines.
         </p>
 
         <div className="pf-terminal">
