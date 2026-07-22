@@ -60,7 +60,7 @@ const CAPABILITIES = [
 
 const PROJECTS = [
   {
-    name: "BrandGuideAI",
+    name: "BrandMuseAI",
     tagline: "Multi-agent pipeline for brand-consistent marketing copy",
     status: "LIVE",
     description:
@@ -72,7 +72,7 @@ const PROJECTS = [
     ],
     stack: ["LangGraph", "Celery", "RabbitMQ", "Redis", "Postgres · pgvector", "Groq · Llama 3.3 70B"],
     url: "https://github.com/Aniekan-Udo/BrandGuideAI/tree/best-branch",
-    liveUrl: null,
+    liveUrl: "https://brandmuse.duckdns.org",
   },
   {
     name: "WhatsApp Business Assistant",
